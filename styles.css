@@ -14,30 +14,29 @@ body {
 hr {
   border-style: none;
   border-top-style: dotted;
-
   border-color: #798777;
   border-width: 7px;
   width: 3%;
 }
 
 h1 {
-color: #a2b29f;
+  color: #a2b29f;
 }
 
 h2 {
-color: #bfcba8;
+  color: #bfcba8;
 }
 
 h3 {
-color: #bfcba8;
+  color: #bfcba8;
 }
 
 h4 {
-color: #bdd2b6;
+  color: #bdd2b6;
 }
 
 h5 {
-color: #798777;
+  color: #798777;
 }
 
 p {
@@ -46,34 +45,29 @@ p {
 
 th {
   color: #798777;
-
 }
 
 td {
   color: #798777;
-
 }
 
 li {
   color: #798777;
-
 }
 
 footer {
-    display: flex;
-    justify-content: center;
-    padding: 5px;
-    background-color: #c2b092;
-    color: #5b6d5b;
+  display: flex;
+  justify-content: center;
+  padding: 1px;
+  background-color: #c2b092;
+  color: #5b6d5b;
 }
-
 
 /***************** CLASS SELECTOR **************
 .popcorn {
 background-color:
 }
 */
-
 /************** ID SELCTOR ********************
 #heading {
   blue;
