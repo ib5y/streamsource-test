@@ -1,33 +1,67 @@
+/*********** TAG SELCTOR ***********/
+
+
 body {
-  background-color: #faf3e0;
+  background-color: #f8ede3;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
 
-  border-color: #6e7c7c;
+  border-color: #798777;
   border-width: 7px;
   width: 3%;
 }
 
 h1 {
-color: #b68973;
+color: #a2b29f;
 }
 
 h2 {
-color: #eabf9f;
+color: #bfcba8;
 }
 
 h3 {
-color: #eabf9f;
+color: #bfcba8;
 }
 
 h4 {
-color: #eabf9f;
+color: #bdd2b6;
 }
 
+h5 {
+color: #798777;
+}
 
 p {
-  color: #1e212d;
+  color: #798777;
 }
+
+th {
+  color: #798777;
+
+}
+
+td {
+  color: #798777;
+
+}
+
+li {
+  color: #798777;
+
+}
+
+
+/***************** CLASS SELECTOR **************
+.popcorn {
+background-color:
+}
+*/
+
+/************** ID SELCTOR ********************
+#heading {
+  blue;
+}
+*/
