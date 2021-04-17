@@ -1,5 +1,11 @@
 /*********** TAG SELCTOR ***********/
-
+head {
+  display: flex;
+  justify-content: center;
+  padding: 11px;
+  background-color: #c2b092;
+  color: #5b6d5b;
+}
 
 body {
   background-color: #f8ede3;
@@ -51,6 +57,14 @@ td {
 li {
   color: #798777;
 
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #c2b092;
+    color: #5b6d5b;
 }
 
 
